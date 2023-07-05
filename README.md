@@ -53,6 +53,7 @@ The code calls the mintNFT function three times, passing different values for ea
 6. After minting the NFTs, the listNFTs function is called, which displays the metadata of each NFT in the console. //listNFTs();
 
 7. Finally, the getTotalSupply function is called, and the returned value (the total number of minted NFTs) is concatenated with the string "Total Supply: " and printed to the console.
+
 //console.log("Total Supply: " + getTotalSupply());
 
 Thank you!
